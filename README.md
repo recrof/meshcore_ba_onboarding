@@ -1,6 +1,6 @@
 # Onboarding pre novych MeshCore uzivatelov
 
-1. Treba ist na (flasher)[https://flasher.meshcore.dev/], kde si je zoznam radii ktore su podporovane
+1. Treba ist na [flasher](https://flasher.meshcore.dev/), kde si je zoznam radii ktore su podporovane
 2. Po vybrati radia su na vyber 3 hlavne role: companion(client), repeater a room server
 3. Drviva vacsina ludi bude chciet riesit rolu Klienta - tj companion Bluetooth - ten sa pripaja k telefonu a cez neho sa potom daju posielat spravy
 4. Treba vybrat rolu a naflashovat
