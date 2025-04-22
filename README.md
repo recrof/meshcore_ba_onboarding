@@ -14,5 +14,7 @@
 # Dolezite linky
 
 [MeshCore Mapa BA](https://map.meshcore.dev/?lat=48.15&lon=17.1&zoom=12)
+
 [FAQ v anglictine](https://github.com/ripplebiz/MeshCore/blob/main/docs/faq.md)
+
 [GitHub](https://github.com/ripplebiz/MeshCore)
